@@ -40,15 +40,24 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
     * Sharing (chức năng phụ): chia sẻ hình ảnh cho bạn bè hoặc các trang mạng xã hội.
         + Lấy thông tin từ Mess và Fb để chia sẻ hình ảnh.
         + Lấy thông tin số điện thoại từ danh bạ đt để gửi hình ảnh qua tin nhắn.
-     
 
 ##Ý tưởng 2: Thế giới vận hành bởi tình yêu
 
-###Làm gì?
+###Thực trạng
 
-###Tại sao?
+Kẹt xe đang là vấn đề nhức nhối của giao thông Việt Nam. Thế nhưng, ức chế nhất vẫn là tình huống kẹt cứng trong làn xe của mình khi mà nhìn về bên kia đường, các xe chạy ngược chiều vẫn đang ung dung kéo ga lướt gió. Điều này dẫn đến nhu cầu có một hệ thống dải phân cách có thể tự động điều chỉnh nới rộng hay bó hẹp tùy vào lưu lượng xe hai làn.
+
+###Nội dung
+
+Dải phân cách tự động dời vị trí phù hợp lưu lượng xe lưu thông trên hai làn
+
+###Đối tượng
+
+Người tham gia giao thông
 
 ###Làm thế nào?
+
+- Xây 
 
 ##Ý tưởng 3: Tiếng hát trong như tiếng thác xa (hay ngược lại)
 
