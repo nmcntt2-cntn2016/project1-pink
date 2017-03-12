@@ -1,6 +1,6 @@
-#PINK
+#A Study in PINK
 
-##Thành viên:
+##Thành viên
 
 (1612838) Vũ Lê Thế Anh
 
@@ -10,10 +10,26 @@
 
 (1612xxx) Phan Quốc Thắng
 
-##Ý tưởng:
+##Ý tưởng 1: Trái đất tròn không có gì là không thể
 
-### Trái đất tròn không có gì là không thể
+###Làm gì?
 
-### Thế giới vận hành bởi tình yêu
+###Tại sao?
 
-### Tiếng hát trong như tiếng thác xa (hay ngược lại)
+###Làm thế nào?
+
+##Ý tưởng 2: Thế giới vận hành bởi tình yêu
+
+###Làm gì?
+
+###Tại sao?
+
+###Làm thế nào?
+
+##Ý tưởng 3: Tiếng hát trong như tiếng thác xa (hay ngược lại)
+
+###Làm gì?
+
+###Tại sao?
+
+###Làm thế nào?
