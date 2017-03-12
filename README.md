@@ -94,9 +94,11 @@ Các nhóm bạn học sinh - sinh viên
 
 ###Làm thế nào?
 
-* Thống kê các địa điểm vui chơi, ăn uống
+* Thống kê các địa điểm vui chơi, ăn uống kết hợp với bản đồ thành phố
 
 * Lập kế hoạch đi chơi phù hợp:
  + Chọn địa điểm hẹn bắt đầu thuận tiện cho mọi thành viên trong nhóm
  
  + Tìm các địa điểm ăn uống và vui chơi ở gần nhau và đáp ứng mong muốn của nhóm
+ 
+ + Lập tuyến đường và gửi hướng dẫn đến các thành viên trong nhóm
