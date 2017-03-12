@@ -73,11 +73,10 @@ Người tham gia giao thông, các nhà quy hoạch
          
          + Phân biệt với lúc xe dừng đèn đỏ và lúc kẹt xe: khi đèn đỏ và lưu lượng xe đông -> bỏ qua; khi đèn xanh và lưu lượng xe đông -> kẹt xe.
          
-          + Khi xác định được kẹt xe, gửi tín hiệu đến thiết bị điều khiển để tự động dời dải phân cách.
+         + Khi xác định được kẹt xe, gửi tín hiệu đến thiết bị điều khiển để tự động dời dải phân cách.
           
 * Thiết bị điều khiển:
-
-           + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
+         + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
 
 ##Ý tưởng 3: Tiếng hát trong như tiếng thác xa (hay ngược lại)
 
