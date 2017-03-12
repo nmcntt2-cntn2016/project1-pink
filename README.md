@@ -10,7 +10,7 @@
 
 (1612xxx) Phan Quốc Thắng
 
-##Ý tưởng 1: 
+##Ý tưởng 1: Trái Đất tròn không gì là không thể
 
 ###Thực trạng
 
