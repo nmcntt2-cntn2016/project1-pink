@@ -61,16 +61,42 @@ Dải phân cách tự động dời vị trí phù hợp lưu lượng xe lưu 
 
 ###Đối tượng
 
-Người tham gia giao thông
+Người tham gia giao thông, các nhà quy hoạch
 
 ###Làm thế nào?
 
-- Xây 
+* Nhận diện lưu lượng xe: 
+    - Ghi nhận hình ảnh thông qua camera đặt trên cột đèn giao thông, gửi hình ảnh thu được đến phần mềm để nhận diện tình trạng xe hiện tại trên đường.
+    
+    -  Phần mềm: có 2 chức năng chính:
+         + Nhận diện xem khi nào kẹt xe bang cách đo lưu lượng xe có trên đường kết hợp với tín hiệu đèn giao thông hiện tại.
+         
+         + Phân biệt với lúc xe dừng đèn đỏ và lúc kẹt xe: khi đèn đỏ và lưu lượng xe đông -> bỏ qua; khi đèn xanh và lưu lượng xe đông -> kẹt xe.
+         
+          + Khi xác định được kẹt xe, gửi tín hiệu đến thiết bị điều khiển để tự động dời dải phân cách.
+          
+* Thiết bị điều khiển:
+           + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
 
 ##Ý tưởng 3: Tiếng hát trong như tiếng thác xa (hay ngược lại)
 
-###Làm gì?
+###Thực trạng
 
-###Tại sao?
+Sau những giờ học tập và làm việc căng thẳng, mọi người thường muốn tụ tập nhóm bạn tổ chức các buổi đi chơi giải tỏa tinh thần. Các ứng dụng hiện tại cho phép tìm các địa điểm ăn uống, xem phim, nhưng chưa thực sự tạo được liên kết giữa chúng thành một kế hoạch cụ thể. Để lập thành một kế hoạch đi chơi đầy đủ, mọi người phải tìm kiếm địa điểm ăn uống rồi địa điểm giải trí từ nhiều nguồn. Điều này dẫn đến nhu cầu có một ứng dụng giúp tìm địa điểm, tổng kết và lập kế hoạch đi chơi phù hợp.
+
+###Nội dung
+
+Ứng dụng giúp người dùng lập kế hoạch đi chơi phù hợp
+
+###Đối tượng
+
+Các nhóm bạn học sinh - sinh viên
 
 ###Làm thế nào?
+
+* Thống kê các địa điểm vui chơi, ăn uống
+
+* Lập kế hoạch đi chơi phù hợp:
+ + Chọn địa điểm hẹn bắt đầu thuận tiện cho mọi thành viên trong nhóm
+ 
+ + Tìm các địa điểm ăn uống và vui chơi ở gần nhau và đáp ứng mong muốn của nhóm
