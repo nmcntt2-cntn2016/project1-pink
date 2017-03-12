@@ -28,14 +28,11 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
 
 - Xây dựng trên nền tảng Android/ iOS.
 - Chức năng chính của ứng dụng:
-  * ChangeYourself: cho phép bạn thử thay đổi kiểu tóc trên chính gương mặt mình, dựa trên một kiểu tóc mẫu.
-          + Sử dụng một bức ảnh chụp gương mặt của bạn, đã nhận diện được khuôn mặt, mắt, tóc,... Nếu là ảnh chụp từ trước, ứng dụng tự động nhận diện gương mặt và crop kích cỡ phù hợp. Bạn cũng có thể tự chụp bằng camera tự nhận diện của ứng dụng.
-          
-          + Kết hợp một hình ảnh khác, có kiểu tóc mà bạn muốn cắt, cũng được nhận diện gương mặt, mắt và tóc.
-          
-          + Cắt ghép, chỉnh sửa hình ảnh: phần mềm sẽ tự động ghép tóc mà bạn muốn cắt thay thế cho tóc của bạn
-          
-          + Đo độ phù hợp: phần mềm sẽ tự động tính toán xem tóc mới sau khi ghép có hợp với mặt bạn không (dựa vào các số liệu thông số về tỉ lệ khuôn mặt và tóc trong mỹ thuật)
+* ChangeYourself: cho phép bạn thử thay đổi kiểu tóc trên chính gương mặt mình, dựa trên một kiểu tóc mẫu.
+  + Sử dụng một bức ảnh chụp gương mặt của bạn, đã nhận diện được khuôn mặt, mắt, tóc,... Nếu là ảnh chụp từ trước, ứng dụng tự động nhận diện gương mặt và crop kích cỡ phù hợp. Bạn cũng có thể tự chụp bằng camera tự nhận diện của ứng dụng.
+  + Kết hợp một hình ảnh khác, có kiểu tóc mà bạn muốn cắt, cũng được nhận diện gương mặt, mắt và tóc.
+  + Cắt ghép, chỉnh sửa hình ảnh: phần mềm sẽ tự động ghép tóc mà bạn muốn cắt thay thế cho tóc của bạn
+  + Đo độ phù hợp: phần mềm sẽ tự động tính toán xem tóc mới sau khi ghép có hợp với mặt bạn không (dựa vào các số liệu thông số về tỉ lệ khuôn mặt và tóc trong mỹ thuật)
           
    * ChatRoom: có vai trò như một phòng tư vấn online giữa chuyên gia làm tóc và người dùng
        + Người dùng/ chuyên gia làm tóc: tạo một tài khoản riêng, lưu thông tin.
