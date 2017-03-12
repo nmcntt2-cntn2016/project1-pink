@@ -99,4 +99,4 @@ Các nhóm bạn học sinh - sinh viên
  
  + Tìm các địa điểm ăn uống và vui chơi ở gần nhau và đáp ứng mong muốn của nhóm
  
- + Lập tuyến đường và gửi hướng dẫn đến các thành viên trong nhóm
+ + Tìm đường đi ngắn nhất và gửi hướng dẫn đến các thành viên trong nhóm
