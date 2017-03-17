@@ -8,6 +8,8 @@
 
 (1612869) Trần Mai Khiêm
 
+(1612891) Phan Quốc Thắng
+
 ##Ý tưởng 1: Trái Đất tròn không gì là không thể
 
 ###Thực trạng
