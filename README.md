@@ -10,11 +10,11 @@
 
 (1612891) Phan Quốc Thắng
 
-##Ý tưởng 1: Trái Đất tròn không gì là không thể
+##Ý tưởng 1:
 
 ###Thực trạng
 
-Mọi người, đặc biệt là các bạn nữ, thường xuyên phải trăn trở không biết liệu mình có nên nhuộm/uốn/duỗi tóc hay không và kiểu tóc nào sẽ phù hợp với gương mặt của họ (kiểu tóc bao gồm kiểu dáng và cả màu nhuộm). Trong khi đó, một khi đã đưa kéo thì không có cách nào rút lại được. Do đó, họ có nhu cầu được biết trước ảnh hưởng của sự thay đổi đó tới diện mạo của bản thân để đưa ra lựa chọn phù hợp. 
+Thay đổi kiểu tóc hiện nay là nhu cầu cần thiết của hầu hết mọi người, đặc biệt là phụ nữ. Tuy nhiên, trước khi bước vào tiệm cắt tóc, họ luôn phải đối mặt với câu hỏi, liệu thay đổi kiểu tóc này mình sẽ trông như thế nào. Để giải quyết vấn đề khó khăn đó, nhóm chúng tôi hướng đến nghiên cứu 1 phần mềm thay đổi kiểu tóc để giúp người dùng biết trước được dung mạo của mình.
 
 ###Nội dung
 
@@ -29,7 +29,7 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
 - Xây dựng trên nền tảng Android/ iOS.
 - Chức năng chính của ứng dụng:
  * ChangeYourself: cho phép bạn thử thay đổi kiểu tóc trên chính gương mặt mình, dựa trên một kiểu tóc mẫu.
-     + Sử dụng một bức ảnh chụp gương mặt của bạn, đã nhận diện được khuôn mặt, mắt, tóc,... Nếu là ảnh chụp từ trước, ứng dụng tự động nhận diện gương mặt và crop kích cỡ phù hợp. Bạn cũng có thể tự chụp bằng camera tự nhận diện của ứng dụng.
+     + Sử dụng một bức ảnh chụp gương mặt của bạn, bức ảnh này có thể là ảnh đã chụp từ trước (phải rõ ràng để ứng dụng có thể nhận diện được mặt và tóc, nếu ảnh lớn quá kích cỡ sẽ tự động crop về kích cỡ phù hợp) hoặc được chụp bằng camera điện thoại/iPad ngay lúc đó.
      
      + Kết hợp một hình ảnh khác, có kiểu tóc mà bạn muốn cắt, cũng được nhận diện gương mặt, mắt và tóc.
      
@@ -49,7 +49,7 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
         
         + Lấy thông tin số điện thoại từ danh bạ đt để gửi hình ảnh qua tin nhắn.
 
-##Ý tưởng 2: Thế giới vận hành bởi tình yêu
+##Ý tưởng 2:
 
 ###Thực trạng
 
@@ -78,7 +78,7 @@ Người tham gia giao thông, các nhà quy hoạch
 * Thiết bị điều khiển:
          + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
 
-##Ý tưởng 3: Tiếng hát trong như tiếng thác xa (hay ngược lại)
+##Ý tưởng 3:
 
 ###Thực trạng
 
