@@ -1,4 +1,4 @@
-#A Study in *PINK*
+#  A Study in *PINK*
 
 ##Thành viên
 
@@ -10,21 +10,21 @@
 
 (1612891) Phan Quốc Thắng
 
-##Ý tưởng 1:
+## Ý tưởng 1:
 
-###Thực trạng
+### Thực trạng
 
 Thay đổi kiểu tóc hiện nay là nhu cầu cần thiết của hầu hết mọi người, đặc biệt là phụ nữ. Tuy nhiên, trước khi bước vào tiệm cắt tóc, họ luôn phải đối mặt với câu hỏi, liệu thay đổi kiểu tóc này mình sẽ trông như thế nào. Để giải quyết vấn đề khó khăn đó, nhóm chúng tôi hướng đến nghiên cứu 1 phần mềm thay đổi kiểu tóc để giúp người dùng biết trước được dung mạo của mình.
 
-###Nội dung
+### Nội dung
 
 Ứng dụng giúp người dùng thử trước các kiểu tóc từ một tấm hình tùy chọn theo ý thích hoặc dựa trên tư vấn từ các chuyên gia tạo mẫu tóc.
 
-###Đối tượng
+### Đối tượng
 
 Mọi cá nhân có nhu cầu thay đổi kiểu tóc
  
-###Làm thế nào?
+### Làm thế nào?
 
 - Xây dựng trên nền tảng Android/ iOS.
 - Chức năng chính của ứng dụng:
@@ -49,21 +49,21 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
         
         + Lấy thông tin số điện thoại từ danh bạ đt để gửi hình ảnh qua tin nhắn.
 
-##Ý tưởng 2:
+## Ý tưởng 2:
 
-###Thực trạng
+### Thực trạng
 
 Kẹt xe đang là vấn đề nhức nhối của giao thông Việt Nam. Thế nhưng, ức chế nhất vẫn là tình huống kẹt cứng trong làn xe của mình khi mà nhìn về bên kia đường, các xe chạy ngược chiều vẫn đang ung dung kéo ga lướt gió. Điều này dẫn đến nhu cầu có một hệ thống dải phân cách có thể tự động điều chỉnh nới rộng hay bó hẹp tùy vào lưu lượng xe hai làn.
 
-###Nội dung
+### Nội dung
 
 Dải phân cách tự động dời vị trí phù hợp lưu lượng xe lưu thông trên hai làn
 
-###Đối tượng
+### Đối tượng
 
 Người tham gia giao thông, các nhà quy hoạch
 
-###Làm thế nào?
+### Làm thế nào?
 
 * Nhận diện lưu lượng xe: 
     - Ghi nhận hình ảnh thông qua camera đặt trên cột đèn giao thông, gửi hình ảnh thu được đến phần mềm để nhận diện tình trạng xe hiện tại trên đường.
@@ -78,21 +78,21 @@ Người tham gia giao thông, các nhà quy hoạch
 * Thiết bị điều khiển:
          + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
 
-##Ý tưởng 3:
+## Ý tưởng 3:
 
-###Thực trạng
+### Thực trạng
 
 Sau những giờ học tập và làm việc căng thẳng, mọi người thường muốn tụ tập nhóm bạn tổ chức các buổi đi chơi giải tỏa tinh thần. Các ứng dụng hiện tại cho phép tìm các địa điểm ăn uống, xem phim, nhưng chưa thực sự tạo được liên kết giữa chúng thành một kế hoạch cụ thể. Để lập thành một kế hoạch đi chơi đầy đủ, mọi người phải tìm kiếm địa điểm ăn uống rồi địa điểm giải trí từ nhiều nguồn. Điều này dẫn đến nhu cầu có một ứng dụng giúp tìm địa điểm, tổng kết và lập kế hoạch đi chơi phù hợp.
 
-###Nội dung
+### Nội dung
 
 Ứng dụng giúp người dùng lập kế hoạch đi chơi phù hợp
 
-###Đối tượng
+### Đối tượng
 
 Các nhóm bạn học sinh - sinh viên
 
-###Làm thế nào?
+### Làm thế nào?
 
 * Thống kê các địa điểm vui chơi, ăn uống kết hợp với bản đồ thành phố
 
