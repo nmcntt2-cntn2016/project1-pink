@@ -53,7 +53,7 @@ Mọi cá nhân có nhu cầu thay đổi kiểu tóc
 
 ###  Thực trạng
 
-Kẹt xe đang là vấn đề nhức nhối của giao thông Việt Nam. Thế nhưng, ức chế nhất vẫn là tình huống kẹt cứng trong làn xe của mình khi mà nhìn về bên kia đường, các xe chạy ngược chiều vẫn đang ung dung kéo ga lướt gió. Điều này dẫn đến nhu cầu có một hệ thống dải phân cách có thể tự động điều chỉnh nới rộng hay bó hẹp tùy vào lưu lượng xe hai làn.
+Tình trạng kẹt xe ở Việt Nam hiện nay đang gây nhiều tranh cãi và đáng báo động. Tuy nhiên, kẹt xe không phải lúc nào cũng diễn ra ở hai làn đường. Do đó, chúng tôi hướng đến nghiên cứu hệ thống dịch chuyển dải phân cách, thông qua nhận diện lưu lượng xe, nhằm mở rộng làn đường đang kẹt để giảm áp lực và thu hẹp làn đường thông thoáng.
 
 ###  Nội dung
 
@@ -68,8 +68,8 @@ Người tham gia giao thông, các nhà quy hoạch
 * Nhận diện lưu lượng xe: 
     - Ghi nhận hình ảnh thông qua camera đặt trên cột đèn giao thông, gửi hình ảnh thu được đến phần mềm để nhận diện tình trạng xe hiện tại trên đường.
     
-    -  Phần mềm: có 2 chức năng chính:
-         + Nhận diện xem khi nào kẹt xe bang cách đo lưu lượng xe có trên đường kết hợp với tín hiệu đèn giao thông hiện tại.
+    -  Phần mềm: có 3 chức năng chính:
+         + Nhận diện kẹt xe bằng cách đo lưu lượng xe có trên đường kết hợp với tín hiệu đèn giao thông hiện tại.
          
          + Phân biệt với lúc xe dừng đèn đỏ và lúc kẹt xe: khi đèn đỏ và lưu lượng xe đông -> bỏ qua; khi đèn xanh và lưu lượng xe đông -> kẹt xe.
          
@@ -77,6 +77,8 @@ Người tham gia giao thông, các nhà quy hoạch
           
 * Thiết bị điều khiển:
          + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
+         
+         + Di chuyển dải phân cách sau khi đã báo hiệu
 
 ##  Ý tưởng 3:
 
