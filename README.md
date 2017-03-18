@@ -76,9 +76,8 @@ Người tham gia giao thông, các nhà quy hoạch
          + Khi xác định được kẹt xe, gửi tín hiệu đến thiết bị điều khiển để tự động dời dải phân cách.
           
 * Thiết bị điều khiển:
-         + Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
-         
-         + Di chuyển dải phân cách sau khi đã báo hiệu
+   - Khi nhận được tín hiệu từ phần mềm, bật đèn báo hiệu sắp dời dải phân cách.
+   - Di chuyển dải phân cách sau khi đã báo hiệu
 
 ##  Ý tưởng 3:
 
