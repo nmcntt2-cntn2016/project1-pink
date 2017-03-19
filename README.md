@@ -138,3 +138,25 @@ Các nhóm bạn học sinh - sinh viên.
  + Tìm các địa điểm ăn uống và vui chơi ở gần nhau và đáp ứng mong muốn của nhóm.
  
  + Tìm đường đi ngắn nhất và gửi hướng dẫn đến các thành viên trong nhóm.
+
+## Ý tưởng 4:
+
+### Thực trạng:
+
+Sự phát triển của khoa học kĩ thuật ngày nay đã được ứng dụng vào nông nghiệp, cụ thể là ứng dụng điều khiển tự động trong nhà kính trồng rau sạch, tuy nhiên vẫn còn có sự can thiệp của con người ở khâu kiểm tra tình trạng rau xanh, hằng ngày người ta vẫn ra thăm vườn rau. Để ứng dụng điều khiển tự động được hoàn thiện hơn và đồng thời phát triển theo hướng vườn rau thông minh, nhóm chúng tôi đề xuất hướng nghiên cứu về thu thập tất cả dữ liệu từ các cảm biến nhiệt độ, độ ẩm và ánh sáng của vườn rau nhằm kiểm soát chặt chẽ tình trạng cây trồng, đồng thời chẩn đoán bệnh của rau ngay cả khi con người không có mặt ở vườn, thông qua truyền thông không dây đến máy tính hoặc điện thoại của người dùng. Có thể áp dụng trong trồng rau quy mô vừa và lớn, tiết kiệm tiền và sức người.
+
+### Nội dung:
+
+Ứng dụng giúp thu thập dữ liệu từ các cảm biến gắn vào từng loại cây trồng, giúp kiểm soát chặt chẽ tình trạng của từng cây, từng loại cây và đưa về trung tâm kiểm soát thông báo cho người dùng. Đồng thời ứng dụng giúp điều khiển tự động tưới nước và ánh sáng, chẩn đoán bệnh của cây trồng. Ứng dụng hướng đến một vườn rau tự động và thông minh.
+
+### Đối tượng
+
+- Người làm vườn
+- Trồng rau tại gia
+- Trồng rau quy mô vừa và lớn
+
+### Làm thế nào
+
+- Xây dựng chuẩn đoán bệnh bằng mạng neural network và đưa ra giải pháp, thuốc chữa bệnh trên Matlab. Tưới nước, chiếu sáng tự động và tối ưu sử dụng Fuzzy logic trên Matlab.
+- Thu thập dữ liệu từ các cảm biển và truyền thông không dây và truyền về máy tính hoặc thiết bị di động và hiển thị trên màn hình các thông số của từng cây, từng loại cây, giúp người quản lý chặt chẽ tình hình vườn trong khi không có mặt ở đó. 
+- Người dùng có thể điều khiển tưới nước, chiếu sáng hoặc có thể chuyển sang chế độ tự động hoàn toàn.
