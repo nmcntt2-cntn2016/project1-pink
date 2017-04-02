@@ -12,7 +12,9 @@
 
 `1612891` Phan Quốc Thắng
 
-##  Ý tưởng: Đèn giao thông tự động
+##  Ý tưởng: Hệ thống Tự động Điều khiển Đèn giao thông
+
+### Website: https://vltanh.github.io/narubibi/
 
 ###  Thực trạng
 
