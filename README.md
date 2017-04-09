@@ -15,6 +15,7 @@
 ##  Ý tưởng: Hệ thống Tự động Điều khiển Đèn giao thông
 
 ### Website: https://vltanh.github.io/narubibi/
+### Poster: https://vltanh.github.io/narubibi/images/NMCNTT2.png
 
 ###  Thực trạng
 
